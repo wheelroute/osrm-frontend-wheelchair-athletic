@@ -38,7 +38,7 @@ module.exports = {
   },
   services: [{
     label: 'Wheelchair Athletic',
-    path: 'http://gitlab.wheelroute.at:5002/route/v1'
+    path: 'http://route3.wheelroute.at:5002/route/v1'
   }],
   layer: [{
     'openstreetmap.org': osm,
